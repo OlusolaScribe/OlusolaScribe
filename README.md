@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlusolaScribe
-- 👀 I’m interested in 
+- 👀 I’m interested in becoming a full stack developer 
 - 🌱 I’m currently learning responsive web design
 - 💞️ I’m looking to collaborate on html and css project to boost my knowledge
 - 📫 Please reach me on X(formerly twitter) @AdekileOlusola.
